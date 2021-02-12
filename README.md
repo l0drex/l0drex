@@ -20,7 +20,7 @@ Another project is a Telegram bot, which should give you all information a stude
 - Telegram: @l0drex
 - Discord: l0drex
 
-## Interesting web pages I stumbled upon
+## :globe_with_meridians: Interesting web pages I stumbled upon
 
 | URL | Description
 | --- | --- |
