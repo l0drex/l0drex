@@ -24,7 +24,8 @@ Another project is a Telegram bot, which should give you all information a stude
 
 | URL | Description
 | --- | --- |
-| deepl.com | Translator based on GPT-2, which works in my experience way better than Goolge Translator
-| keybr.com | Touch typing trainer based on an AI that creates non-existing words based on your mistakes
+| https://www.deepl.com/translator | Translator based on GPT-2, which works in my experience way better than Goolge Translator
+| https://www.keybr.com/ | Touch typing trainer based on an AI that creates non-existing words based on your mistakes
+| https://haveibeenpwned.com/ | Check if your e-mail or phone number has been hacked.
 
 I think I discovered most of these websites through [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/), you might want to have a look at it.
