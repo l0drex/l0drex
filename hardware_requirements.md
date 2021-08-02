@@ -12,7 +12,7 @@
 # Maus
 
 - RGB unnötig, aber Beleuchtung allgemein nützlich
-- DPI switch
+- DPI switch nicht unbedingt notwendig
 - back/forward
 - Tasten nicht zu leicht
 - Maus nicht zu leicht
