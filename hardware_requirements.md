@@ -11,7 +11,7 @@
 
 # Maus
 
-- RGB unnötig
+- RGB unnötig, aber Beleuchtung allgemein nützlich
 - DPI switch
 - back/forward
 - Tasten nicht zu leicht
