@@ -89,11 +89,11 @@ footer {
     font-family: 'Material Icons', sans-serif;
 }
 
-ul, .none {
+ul.none {
     list-style: none;
 }
 
-li, .horizontal {
+nav ul li {
     display: inline;
 }
 
