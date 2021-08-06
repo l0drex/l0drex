@@ -1,8 +1,8 @@
 :root {
-    --space-black: #181a1b;
-    --blackboard-black: #1df20;
-    --arctic-white: #f7f7f7;
+    --space-black: #151515;
+    --blackboard-black: #414141;
     --concrete-white: #dfdfdf;
+    --arctic-white: #f7f7f7;
 
     --foreground-color: var(--space-black);
     --background-color: var(--concrete-white);
@@ -31,7 +31,7 @@
     box-sizing: border-box;
     color: var(--foreground-color);
     background: var(--background-color);
-    font-family: sans-serif;
+    font-family: "Open Sans", sans-serif;
 }
 
 body {
