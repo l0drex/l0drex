@@ -11,22 +11,6 @@
     --foreground-color-complementary: var(--background-color);
 }
 
-@media (prefers-color-scheme: light) {
-    :root {
-        --foreground-color: var(--space-black);
-        --background-color: var(--concrete-white);
-        --element-background: var(--arctic-white);
-    }
-}
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --foreground-color: var(--arctic-white);
-        --background-color: var(--space-black);
-        --element-background: var(--blackboard-black);
-    }
-}
-
 * {
     box-sizing: border-box;
     color: var(--foreground-color);
@@ -111,4 +95,26 @@ ul, .none {
 
 li, .horizontal {
     display: inline;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --foreground-color: var(--space-black);
+        --background-color: var(--concrete-white);
+        --element-background: var(--arctic-white);
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --foreground-color: var(--arctic-white);
+        --background-color: var(--space-black);
+        --element-background: var(--blackboard-black);
+    }
+}
+
+@media (orientation: portrait) {
+    aside {
+        visibility: collapse;
+    }
 }
