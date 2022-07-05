@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/l0drex.iml" filepath="$PROJECT_DIR$/l0drex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/split_wallpaper.py.iml" filepath="$PROJECT_DIR$/.idea/split_wallpaper.py.iml" />
     </modules>
   </component>
 </project>
