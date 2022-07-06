@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/idea_vault/Hangman/Hangman.iml" filepath="$PROJECT_DIR$/idea_vault/Hangman/Hangman.iml" />
       <module fileurl="file://$PROJECT_DIR$/l0drex.iml" filepath="$PROJECT_DIR$/l0drex.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/split_wallpaper.py.iml" filepath="$PROJECT_DIR$/.idea/split_wallpaper.py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/website/website.iml" filepath="$PROJECT_DIR$/website/website.iml" />
     </modules>
   </component>
 </project>
