@@ -27,12 +27,17 @@ nav ul {
   margin: 0;
   padding: 0;
   gap: 1rem;
+  align-items: baseline;
 }
 
 nav li {
   padding: .5rem;
   border-bottom: solid transparent;
   transition: all .3s;
+}
+
+nav li:first-child {
+  padding: 0;
 }
 
 nav a {
