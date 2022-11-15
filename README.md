@@ -18,7 +18,7 @@ Another project is a Telegram bot, which should give you all information a stude
 ## :mailbox: How to reach me
 - Mail: hoffmann_lorenz@protonmail.com
 - Telegram: @l0drex
-- Discord: l0drex
+- Mastodon: <a rel="me" href="https://dresden.network/@l0drex">@l0drex</a>
 
 ## :globe_with_meridians: Interesting web pages I stumbled upon
 
